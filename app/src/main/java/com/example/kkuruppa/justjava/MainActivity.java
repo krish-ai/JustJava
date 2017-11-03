@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     /**
-     * This method displays the given price on the screen.
+     * This method displays the given price on the screen. You may make changes here.
      */
     private void displayPrice(int number) {
         TextView priceTextView = (TextView) findViewById(R.id.price_text_view);
